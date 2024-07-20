@@ -5,25 +5,14 @@ Welcome to **ft_transcendence**, a single-page application where the classic gam
 ![screenshot](https://github.com/user-attachments/assets/99c925e7-6f0f-45fe-bf4e-a48a16498a9c)
 
 
-## Features
-
-- **Single-Page Application**: Smooth navigation with browser's Back and Forward buttons.
-- **Compatibility**: Fully compatible with the latest stable version of Google Chrome.
-- **Live Pong Game**: Engage in 1v1 battles or join a tournament mode for more competitive play.
-- **User Registration**: Sign up, log in, add friends, and personalize your profile for the tournaments.
-- **Matchmaking System**: Organized pairing for tournament plays, announcing upcoming matches.
-- **Two-Factor Authentication**: Extra layer of security with 2FA.
-- **Security**: Enhanced protection against common web vulnerabilities and secure HTTPS connections.
-- **JSON web tokens**: JSON web token implementation for scalability and security.
-
 ## Modules Utilized
 
 - **Backend Framework**: Django REST for a robust backend experience.
-- **Frontend Toolkit**: Bootstrap for responsive and intuitive UI/UX design.
+- **Frontend Toolkit**: Utilizing Bootstrap toolkit.
 - **Database**: PostgreSQL for consistent and reliable data management.
-- **User Management**: Standard user authentication, profile customization, and friend system.
+- **User Management**: JWT authentication, profile customization, and friend system.
 - **Game Customization**: Tailor your Pong game with various power-ups and maps.
-- **Two-Factor Authentication**: Extra layer of security with 2FA and JWT implementation.
+- **Two-Factor Authentication and JWT**: Extra layer of security with 2FA and JWT implementation.
 - **Advanced 3D Graphics**: ThreeJS/WebGL for an immersive visual experience.
 - **Another game**: Added another game called Knockoff using ThreeJS/WebGL.
 - **Expanding Browser Compatibility**: Project works best with chrome but should work with other browsers aswell.
